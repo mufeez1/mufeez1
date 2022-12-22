@@ -38,6 +38,8 @@ _- Currently working at Emblem Technologies as a Full Stack Developer_
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+<!----------------------------------- _Let's Connect_ ------------------------------------>
+
 ## _Let's Connect_  📫
 <p align="left">
     <a href="https://linkedin.com/in/muffeez-khalid/">
@@ -53,3 +55,15 @@ _- Currently working at Emblem Technologies as a Full Stack Developer_
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
     </a>
 </p>
+
+
+
+<!----------------------------------- GitHub Stats Section  ------------------------------------>
+
+<h2><i>My GitHub Stats</i></h2>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mufeez1&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="mufeez" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufeez1&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
+</p>
+<br
