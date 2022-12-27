@@ -51,8 +51,8 @@ _- Currently working at Emblem Technologies as a Full Stack Developer_
     <a href="#">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
     </a>
-    <a title="mufeezkhalid@outlook.com" href="mufeezkhalid@outlook.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
+    <a href="mailto:mufeezkhalid@outlook.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
 
