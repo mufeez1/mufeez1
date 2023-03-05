@@ -6,9 +6,9 @@ _- Currently working at Emblem Technologies as a Full Stack Developer_
  ![](https://komarev.com/ghpvc/?username=mufeez1&color=brightgreen) ![](https://img.shields.io/github/followers/mufeez1?style=social)
  
 
-- 👀 I’m interested in **MEAN & MERN Stack** Web Development
+- 💞️ I’m interested in **MEAN & MERN Stack** Web Development
 - 🌱 I’m currently learning **DSA in JS** & **WEB 3.0**
-- 💞️ I’m looking to collaborate on **WEB 3.0** , **JAMSTACK** and **Nodejs** Projects
+- 👀 I’m looking to collaborate on **WEB 3.0** , **JAMSTACK** and **Nodejs** Projects
 
 
 
