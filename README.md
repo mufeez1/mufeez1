@@ -1,7 +1,7 @@
 # Hello 👋 I’m Muffeez Khalid
 **_I'm a Full Stack Web Developer skilled in MERN & MEAN stack who focuses on writing clean, elegant and efficient code._**
  
-_- Currently working at Emblem Technologies as a Full Stack Developer_
+_- Currently working at Classera as a Full Stack Developer_
 
  ![](https://komarev.com/ghpvc/?username=mufeez1&color=brightgreen) ![](https://img.shields.io/github/followers/mufeez1?style=social)
  
